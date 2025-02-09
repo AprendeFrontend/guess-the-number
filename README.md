@@ -6,7 +6,7 @@
 
 ## 📝 Descripción
 
-Este reto consiste en replicar un diseño profesional utilizando **HTML** y **CSS**, es ideal para dar tus primeros pasos en maquetación.
+Este reto consiste en replicar un diseño profesional utilizando **HTML**, **CSS** y **JavaScript**, es ideal para mejorar tus habilidades en el desarrollo frontend.
 
 ---
 
@@ -24,6 +24,7 @@ En este proyecto, podrás practicar y mejorar en áreas como:
 
 - **Maquetación semántica:** Crear una estructura HTML clara y accesible.
 - **CSS básico** Aprende a usar algunas de las propiedades más comunes.
+- **JavaScript** Maneja eventos, manipula el DOM y trabaja con datos en tiempo real para mejorar la experiencia del usuario.
 
 Reflexiona sobre lo aprendido al completar el proyecto y anótalo aquí. Ejemplo:
 
