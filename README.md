@@ -14,7 +14,7 @@ Este reto consiste en replicar un diseño profesional utilizando **HTML** y **CS
 
 A continuación, puedes ver cómo luce tu proyecto final.
 
-![Vista previa](https://raw.githubusercontent.com/AprendeFrontend/...)
+![Vista previa](https://raw.githubusercontent.com/AprendeFrontend/guess-the-number/refs/heads/main/screenshots/guess-the-number.jpg)
 
 ---
 
